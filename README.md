@@ -1,16 +1,17 @@
-## Hi there 👋
+## Welcome to my profile! 🌈
 
-<!--
-**AFatmaa/AFatmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer who loves building things that look beautiful and work great.
 
-Here are some ideas to get you started:
+I learned Full-Stack development at **CodeYourFuture**. I enjoy writing clean code and designing simple interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Here are the technologies I enjoy using:**
+
+*   React & JavaScript
+*   HTML5 & CSS3
+*   Tailwind CSS & DaisyUI (I love making things pretty!)
+*   Node.js & Express
+*   PostgreSQL & SQL
+
+
+Thanks for visiting!
